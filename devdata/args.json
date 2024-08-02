@@ -1,0 +1,9 @@
+{
+    "data": {
+        "name": "invoice_file_path",
+        "type": "File",
+        "direction": "IN",
+        "value": "D:/Rainscales/RPA-Example/rs_examples-ap_odoo_invoice-enter_data_into_odoo/data/BRAMMER(ORX)_166678_184132.pdf",
+        "required": true
+    }
+}
